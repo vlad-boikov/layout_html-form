@@ -2,15 +2,15 @@
   margin-bottom: 20px;
 }
 
-label {
+.label {
   display: block;
   margin-bottom: 10px;
 }
 
-.fieldset label:last-of-type {
+.fieldset .label:last-of-type {
   margin-bottom: 0;
 }
 
-.label {
+.label--inline {
   display: inline-block;
 }
